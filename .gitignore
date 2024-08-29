@@ -1,0 +1,9 @@
+.stfolder
+.stfolder*
+.trash
+*-conflict-*
+
+workspace-mobile.json
+workspace.json
+
+_Other_
