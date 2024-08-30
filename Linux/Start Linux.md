@@ -74,7 +74,7 @@ input {
 > - *animations.conf* - используется для настройки анимаций
 > - *windowrules.conf* - нужен для настройки прозрачности приложений
 ## 4.  Установка приложений
-Ну что же вот и конец, я просто пропишу какие приложения ставил Я. Открываем терминал (kitty) через [[hotkey linux]] и прописываем команды и совсем соглашаемся.
+Ну что же вот и конец, я просто пропишу какие приложения ставил Я. Открываем терминал (kitty) через [[hotkey linux]] и прописываем команды и совсем соглашаемся. Пакетики смотрим на сайте [ArchLinux](https://archlinux.org/packages/).
 - VScode - его сначала нужно удалить и поставить **нормальный**!
 ```shell
 yay -R code
@@ -88,6 +88,13 @@ yay -S telegram-desktop
 ```shell
 yay -S spotify-launcher
 ```
+Дальше прописаны мои штучки:
+- Шрифт Maple-mono - тот самый от китайца ~~гений~~
+```shell
+yay -S paru //Для установки шрифтов
+
+paru -S ttf-maple или ttf-maple-beta
+```
 - Nodejs - нодааааааааааа
 ```shell
 yay -S nodejs
@@ -96,11 +103,11 @@ yay -S nodejs
 ```shell
 bun i -g @antfu/ni
 ```
-- Bun
+- Bun 
 ```shell
 curl -fsSL https://bun.sh/install | bash
 ```
-- Obsidian - нодааааааааааа
+- Obsidian - заметочки 
 ```shell
 yay -S obsidian
 ```
