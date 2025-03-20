@@ -48,7 +48,7 @@
 | Super + MouseScroll               | Scroll through existing workspaces                                |
 | Super + LeftClick  <br>Super + Z  | Move focused window                                               |
 | Super + RightClick  <br>Super + X | Resize focused window                                             |
-| ==Super + Alt + S==                   | ==Move/Switch to special workspace (scratchpad)==                     |
+| ==Super + Alt + S==               | ==Move/Switch to special workspace (scratchpad)==                 |
 | ==Super + S==                     | ==Toggle to special workspace==                                   |
 | ==Super + J==                     | ==Toggle focused window split==                                   |
 | Super + Alt + [0-9]               | Move focused window to a workspace silently                       |

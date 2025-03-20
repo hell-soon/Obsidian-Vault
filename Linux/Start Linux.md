@@ -111,4 +111,8 @@ curl -fsSL https://bun.sh/install | bash
 ```shell
 yay -S obsidian
 ```
+- Темы на Линкус
+```shell
+Hyde theme import
+```
 Пока что усе!
