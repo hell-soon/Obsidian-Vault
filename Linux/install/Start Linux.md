@@ -32,7 +32,7 @@ sudo pacman -Suy
 При запуске пк, мы заходим в Линукс без рабочего стола и прописываем команды для установки. Я использую **[hyprdots](https://github.com/prasanthrangan/hyprdots)** . Ниже дублировал команды. 
 - Установка:
 ```bash
-git clone --depth 1 https://github.com/prasanthrangan/hyprdots ~/HyDE
+git clone --depth 1 https://github.com/HyDE-Project/HyDE ~/HyDE
 cd ~/HyDE/Scripts
 ./install.sh
 ```
@@ -74,7 +74,17 @@ input {
 > - *animations.conf* - используется для настройки анимаций
 > - *windowrules.conf* - нужен для настройки прозрачности приложений
 ## 4.  Установка приложений
-Ну что же вот и конец, я просто пропишу какие приложения ставил Я. Открываем терминал (kitty) через [[hotkey linux]] и прописываем команды и совсем соглашаемся. Пакетики смотрим на сайте [ArchLinux](https://archlinux.org/packages/).
+Ну что же вот и конец, я просто пропишу какие приложения ставил Я. Открываем терминал (kitty) через [[hotkey linux]] и прописываем команды и совсем соглашаемся.
+
+Или есть другой вариант, использовать мой installer, всё его описание находится на [[https://github.com/hell-soon/Koto-Installer|Git]] (На свой страх и риск ^-^)
+```shell
+git clone https://github.com/hell-soon/Koto-Installer.git
+cd Koto-Installer
+chmod +x install-hyprcat.sh
+./install-hyprcat.sh
+```
+
+Пакетики смотрим на сайте [ArchLinux](https://archlinux.org/packages/).
 - VScode - его сначала нужно удалить и поставить **нормальный**!
 ```shell
 yay -R code

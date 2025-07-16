@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Информация по изучению/NestJS Mini-Проект Блог с авторизацией и комментариями.md",
+                "file": "Linux/install/Start Linux.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NestJS Mini-Проект Блог с авторизацией и комментариями"
+              "title": "Start Linux"
+            }
+          },
+          {
+            "id": "c13c9ee60d961982",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/install/Start Linux.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Start Linux"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,10 +181,13 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "92e06543b505405d",
+  "active": "c13c9ee60d961982",
   "lastOpenFiles": [
-    "Project/RealTime Map Main/О проекте.md",
+    "Linux/install/hotkey linux.md",
+    "Linux/install/Start Linux.md",
     "Информация по изучению/NestJS Mini-Проект Блог с авторизацией и комментариями.md",
+    "Linux/install",
+    "Project/RealTime Map Main/О проекте.md",
     "Информация по изучению",
     "Project/RealTime Map Main/Развитие проекта.md",
     "Project/pet-project/🧩 Hellsoon — SvelteKit Visual & UX Guide.md",
@@ -179,21 +197,18 @@
     "Project/pet-project",
     "Arch Win/Установка ZSH.md",
     "Project",
-    "Linux/Img/Rufus.png",
-    "Linux/Img/Pasted image 20240830144817.png",
+    "Linux/install/Img/Rufus.png",
+    "Linux/install/Img/Pasted image 20240830144817.png",
     "GIt/Фичи для гита.md",
     "PetProject/Идея для проекта.md",
     "Work/Идеи для написания Lib.md",
     "PetProject",
-    "Linux/hotkey linux.md",
     "Work",
-    "Linux/Start Linux.md",
     "Arch Win",
     "GIt",
     "Frontend",
     "Linux/Linux.md",
     "Untitled.canvas",
-    "Linux",
     "2024-08-29.md",
     "Rufus.md"
   ]
