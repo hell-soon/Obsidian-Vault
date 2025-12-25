@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "b0c31659bdaddee2",
+        "id": "a26403f174383987",
         "type": "tabs",
         "children": [
           {
-            "id": "92e06543b505405d",
+            "id": "11e7549c58822dcf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/install/Start Linux.md",
+                "file": "Tech/Nuxt/Utils/Custom Fetch Wrapper.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Start Linux"
-            }
-          },
-          {
-            "id": "c13c9ee60d961982",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/install/Start Linux.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Start Linux"
+              "title": "Custom Fetch Wrapper"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -59,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Файловый менеджер"
+              "title": "Files"
             }
           },
           {
@@ -93,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 350.5
   },
   "right": {
     "id": "767cb287e2d7a783",
@@ -173,40 +158,51 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
-  "active": "c13c9ee60d961982",
+  "active": "564176739a493326",
   "lastOpenFiles": [
-    "Linux/install/hotkey linux.md",
-    "Linux/install/Start Linux.md",
-    "Информация по изучению/NestJS Mini-Проект Блог с авторизацией и комментариями.md",
-    "Linux/install",
-    "Project/RealTime Map Main/О проекте.md",
-    "Информация по изучению",
-    "Project/RealTime Map Main/Развитие проекта.md",
+    "Tech/TypeScript",
+    "Tech/General/Universal Axios Wrapper.md",
+    "Tech/Nuxt/Utils/Custom Fetch Wrapper.md",
+    "Tech/General",
+    "Tech/Vue/Utils/Vite Auto-Import Config.md",
+    "Tech/Vue/Utils/Untitled",
+    "Tech/Nuxt/Utils/WebSocket Composable (Socket.io).md",
+    "Tech/Vue/Utils",
+    "Tech/Vue",
+    "Tech/Nuxt/Utils/Smart Component Scanner.md",
+    "Tech/Architecture/Feature-Sliced Design (FSD).md",
+    "Tech/Nuxt/Utils",
+    "Tech/Architecture/Vertical Slice Architecture (VSA).md",
+    "Projects/RT-Task Frontend/Architecture/VSA.md",
+    "Projects/RT-Task Frontend/Architecture",
+    "Project/Untitled.md",
+    "Tech/Architecture",
+    "Tech/Nuxt",
+    "Tech",
+    "Projects/RT-Task Frontend",
+    "Projects/RealTime Map Main/Функционал.md",
     "Project/pet-project/🧩 Hellsoon — SvelteKit Visual & UX Guide.md",
-    "Project/RealTime Map Main/Стэк технологий.md",
-    "Project/RealTime Map Main/Функционал.md",
-    "Project/RealTime Map Main",
-    "Project/pet-project",
+    "Projects/RealTime Map Main/Стэк технологий.md",
+    "Projects/RealTime Map Main/Развитие проекта.md",
+    "Projects/RealTime Map Main/О проекте.md",
+    "Информация по изучению/NestJS Mini-Проект Блог с авторизацией и комментариями.md",
+    "Linux/install/Start Linux.md",
+    "Linux/install/hotkey linux.md",
     "Arch Win/Установка ZSH.md",
-    "Project",
     "Linux/install/Img/Rufus.png",
     "Linux/install/Img/Pasted image 20240830144817.png",
     "GIt/Фичи для гита.md",
     "PetProject/Идея для проекта.md",
     "Work/Идеи для написания Lib.md",
-    "PetProject",
-    "Work",
-    "Arch Win",
-    "GIt",
-    "Frontend",
     "Linux/Linux.md",
     "Untitled.canvas",
     "2024-08-29.md",
