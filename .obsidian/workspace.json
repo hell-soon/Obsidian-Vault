@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a26403f174383987",
+        "id": "ceb967159fac1327",
         "type": "tabs",
         "children": [
           {
-            "id": "11e7549c58822dcf",
+            "id": "f206e66b970795b8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tech/Nuxt/Utils/Custom Fetch Wrapper.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Custom Fetch Wrapper"
+              "title": "New tab"
             }
           }
         ]
@@ -148,13 +144,23 @@
               "icon": "lucide-list",
               "title": "Структура"
             }
+          },
+          {
+            "id": "5131236b41e3d2c3",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 562.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,14 +170,16 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "564176739a493326",
+  "active": "f206e66b970795b8",
   "lastOpenFiles": [
+    "Tech/Nuxt/Utils/Custom Fetch Wrapper.md",
     "Tech/TypeScript",
     "Tech/General/Universal Axios Wrapper.md",
-    "Tech/Nuxt/Utils/Custom Fetch Wrapper.md",
     "Tech/General",
     "Tech/Vue/Utils/Vite Auto-Import Config.md",
     "Tech/Vue/Utils/Untitled",
@@ -188,7 +196,6 @@
     "Tech/Architecture",
     "Tech/Nuxt",
     "Tech",
-    "Projects/RT-Task Frontend",
     "Projects/RealTime Map Main/Функционал.md",
     "Project/pet-project/🧩 Hellsoon — SvelteKit Visual & UX Guide.md",
     "Projects/RealTime Map Main/Стэк технологий.md",
