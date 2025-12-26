@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ceb967159fac1327",
+        "id": "3023cade7d7ac83b",
         "type": "tabs",
         "children": [
           {
-            "id": "f206e66b970795b8",
+            "id": "10d9ade8c96ae614",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "Tech/Nuxt/Utils/Custom Fetch Wrapper.md",
+                "bFile": "Tech/Nuxt/Utils/Custom Fetch Wrapper.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: Custom Fetch Wrapper"
             }
           }
         ]
@@ -175,21 +179,21 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f206e66b970795b8",
+  "active": "10d9ade8c96ae614",
   "lastOpenFiles": [
     "Tech/Nuxt/Utils/Custom Fetch Wrapper.md",
-    "Tech/TypeScript",
+    "Tech/Nuxt/Utils/Smart Component Scanner.md",
     "Tech/General/Universal Axios Wrapper.md",
+    "Tech/Architecture/Feature-Sliced Design (FSD).md",
+    "Tech/Architecture/Vertical Slice Architecture (VSA).md",
+    "Tech/TypeScript",
     "Tech/General",
     "Tech/Vue/Utils/Vite Auto-Import Config.md",
     "Tech/Vue/Utils/Untitled",
     "Tech/Nuxt/Utils/WebSocket Composable (Socket.io).md",
     "Tech/Vue/Utils",
     "Tech/Vue",
-    "Tech/Nuxt/Utils/Smart Component Scanner.md",
-    "Tech/Architecture/Feature-Sliced Design (FSD).md",
     "Tech/Nuxt/Utils",
-    "Tech/Architecture/Vertical Slice Architecture (VSA).md",
     "Projects/RT-Task Frontend/Architecture/VSA.md",
     "Projects/RT-Task Frontend/Architecture",
     "Project/Untitled.md",
