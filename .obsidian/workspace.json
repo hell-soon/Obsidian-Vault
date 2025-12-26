@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3023cade7d7ac83b",
+        "id": "8f4145accfa53e44",
         "type": "tabs",
         "children": [
           {
-            "id": "10d9ade8c96ae614",
+            "id": "764a9ea049725df3",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": "Tech/Nuxt/Utils/Custom Fetch Wrapper.md",
-                "bFile": "Tech/Nuxt/Utils/Custom Fetch Wrapper.md",
+                "aFile": "Excalidraw/Drawing 2025-12-26 12.34.35.excalidraw.md",
+                "bFile": "Excalidraw/Drawing 2025-12-26 12.34.35.excalidraw.md",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: Custom Fetch Wrapper"
+              "title": "Diff: Drawing 2025-12-26 12.34.35.excalidraw"
             }
           }
         ]
@@ -94,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PetProject/Идея для проекта.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Идея для проекта"
+              "title": "Backlinks"
             }
           },
           {
@@ -117,7 +116,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки"
+              "title": "Outgoing links"
             }
           },
           {
@@ -132,7 +131,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Теги"
+              "title": "Tags"
             }
           },
           {
@@ -146,7 +145,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура"
+              "title": "Outline"
             }
           },
           {
@@ -179,8 +178,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "10d9ade8c96ae614",
+  "active": "764a9ea049725df3",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-12-26 12.34.35.excalidraw.md",
+    "Excalidraw",
     "Tech/Nuxt/Utils/Custom Fetch Wrapper.md",
     "Tech/Nuxt/Utils/Smart Component Scanner.md",
     "Tech/General/Universal Axios Wrapper.md",
@@ -199,7 +200,6 @@
     "Project/Untitled.md",
     "Tech/Architecture",
     "Tech/Nuxt",
-    "Tech",
     "Projects/RealTime Map Main/Функционал.md",
     "Project/pet-project/🧩 Hellsoon — SvelteKit Visual & UX Guide.md",
     "Projects/RealTime Map Main/Стэк технологий.md",
