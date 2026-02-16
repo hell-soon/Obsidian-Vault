@@ -129,7 +129,6 @@ export function useWebSocket(): UseWebSocketReturn {
 ## Типизация событий
 Чтобы IntelliSense работал, нужно описать контракт.
 Файл: `app/shared/types/socketEvents.ts`
-
 ```ts
 export interface ServerToClientEvents {
   'chat:message': (msg: { id: number, text: string }) => void
@@ -143,7 +142,6 @@ export interface ClientToServerEvents {
 ```
 
 ## Пример использования (в компоненте)
-
 ```vue
 <script setup lang="ts">
 const { connect, disconnect, on, emit, getSocketState } = useWebSocket()

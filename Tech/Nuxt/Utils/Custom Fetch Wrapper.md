@@ -3,7 +3,6 @@
 Цель: упростить вызовы API, автоматически подставлять `BaseURL` и токен авторизации из кук, а также типизировать ответ.
 ## Код
 Файл: `app/shared/api/fetch.ts` (или `composables/useApi.ts`)
-
 ```ts
 // Nuxt auto-imports: useFetch, useCookie, createError, import.meta.env
 

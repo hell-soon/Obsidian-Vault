@@ -8,10 +8,8 @@
 Генерирует `.d.ts` файлы, чтобы TypeScript и VS Code понимали эту "магию".
 
 ##  Код (vite.config.ts)
-
 **Необходимые пакеты:**
 `npm i -D unplugin-auto-import unplugin-vue-components`
-
 ```ts
 import { fileURLToPath, URL } from 'node:url'
 import { defineConfig } from 'vite'

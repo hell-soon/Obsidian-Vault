@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8f4145accfa53e44",
+        "id": "d8789045fd85444a",
         "type": "tabs",
         "children": [
           {
-            "id": "764a9ea049725df3",
+            "id": "3182d2bf1b019700",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Excalidraw/Drawing 2025-12-26 12.34.35.excalidraw.md",
-                "bFile": "Excalidraw/Drawing 2025-12-26 12.34.35.excalidraw.md",
-                "aRef": ""
+                "file": "Linux/install/Start Linux.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Drawing 2025-12-26 12.34.35.excalidraw"
+              "icon": "lucide-file",
+              "title": "Start Linux"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Файловый менеджер"
             }
           },
           {
@@ -167,50 +167,51 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "764a9ea049725df3",
+  "active": "3182d2bf1b019700",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-12-26 12.34.35.excalidraw.md",
-    "Excalidraw",
+    "Projects/RT-Task Frontend/Architecture/VSA.md",
+    "Projects/RealTime Map Main/Функционал.md",
+    "Projects/RealTime Map Main/Стэк технологий.md",
+    "Projects/RealTime Map Main/Развитие проекта.md",
+    "Projects/RealTime Map Main/О проекте.md",
+    "test-note.md",
+    "Информация по изучению/NestJS Mini-Проект Блог с авторизацией и комментариями.md",
+    "Tech/Vue/Utils/Vite Auto-Import Config.md",
     "Tech/Nuxt/Utils/Custom Fetch Wrapper.md",
     "Tech/Nuxt/Utils/Smart Component Scanner.md",
-    "Tech/General/Universal Axios Wrapper.md",
+    "Tech/Nuxt/Utils/WebSocket Composable (Socket.io).md",
     "Tech/Architecture/Feature-Sliced Design (FSD).md",
     "Tech/Architecture/Vertical Slice Architecture (VSA).md",
+    "Tech/General/Universal Axios Wrapper.md",
+    "Linux/install/Start Linux.md",
+    "Linux/install/hotkey linux.md",
+    "Linux/install/Img/Pasted image 20240830144817.png",
+    "Linux/install/Img/Rufus.png",
+    "Excalidraw/Drawing 2025-12-26 12.34.35.excalidraw.md",
+    "Excalidraw",
     "Tech/TypeScript",
     "Tech/General",
-    "Tech/Vue/Utils/Vite Auto-Import Config.md",
     "Tech/Vue/Utils/Untitled",
-    "Tech/Nuxt/Utils/WebSocket Composable (Socket.io).md",
     "Tech/Vue/Utils",
     "Tech/Vue",
     "Tech/Nuxt/Utils",
-    "Projects/RT-Task Frontend/Architecture/VSA.md",
     "Projects/RT-Task Frontend/Architecture",
     "Project/Untitled.md",
     "Tech/Architecture",
     "Tech/Nuxt",
-    "Projects/RealTime Map Main/Функционал.md",
     "Project/pet-project/🧩 Hellsoon — SvelteKit Visual & UX Guide.md",
-    "Projects/RealTime Map Main/Стэк технологий.md",
-    "Projects/RealTime Map Main/Развитие проекта.md",
-    "Projects/RealTime Map Main/О проекте.md",
-    "Информация по изучению/NestJS Mini-Проект Блог с авторизацией и комментариями.md",
-    "Linux/install/Start Linux.md",
-    "Linux/install/hotkey linux.md",
     "Arch Win/Установка ZSH.md",
-    "Linux/install/Img/Rufus.png",
-    "Linux/install/Img/Pasted image 20240830144817.png",
     "GIt/Фичи для гита.md",
     "PetProject/Идея для проекта.md",
     "Work/Идеи для написания Lib.md",

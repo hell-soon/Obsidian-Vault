@@ -57,7 +57,6 @@ export function findComponentDirs(startPath: string): any[] {
 ```
 
 ## Интеграция (nuxt.config.ts)
-
 ```ts
 import { findComponentDirs } from './nuxt.config.utils'
 
@@ -75,7 +74,6 @@ export default defineNuxtConfig({
 ```
 
 ## Пример структуры
-
 Файловая система:
 ```text
 app/components/02.shared/
